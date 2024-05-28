@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/casa-sunrise-hoa/static/css/main.2dd82671.css",
+    "main.js": "/casa-sunrise-hoa/static/js/main.5cb3451e.js",
+    "static/media/desert2.jpg": "/casa-sunrise-hoa/static/media/desert2.a63f00f2010c65362c09.jpg",
+    "index.html": "/casa-sunrise-hoa/index.html",
+    "main.2dd82671.css.map": "/casa-sunrise-hoa/static/css/main.2dd82671.css.map",
+    "main.5cb3451e.js.map": "/casa-sunrise-hoa/static/js/main.5cb3451e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dd82671.css",
+    "static/js/main.5cb3451e.js"
+  ]
+}
