@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b883e067.css",
+    "main.js": "/static/js/main.d4c69313.js",
+    "static/media/desert2.jpg": "/static/media/desert2.a63f00f2010c65362c09.jpg",
+    "static/media/CCR.pdf": "/static/media/CCR.dec1b26e5c407f75c0bb.pdf",
+    "static/media/RR.pdf": "/static/media/RR.979b12394e4c6760370a.pdf",
+    "static/media/house2.jpg": "/static/media/house2.1c3f85c61913bd6362ff.jpg",
+    "static/media/house3.jpg": "/static/media/house3.89a022f4b9358ab96bb3.jpg",
+    "static/media/house1.jpg": "/static/media/house1.751aa3cff02e83640078.jpg",
+    "static/media/pool.jpg": "/static/media/pool.26cad7be9d1094cbe2f9.jpg",
+    "index.html": "/index.html",
+    "main.b883e067.css.map": "/static/css/main.b883e067.css.map",
+    "main.d4c69313.js.map": "/static/js/main.d4c69313.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b883e067.css",
+    "static/js/main.d4c69313.js"
+  ]
+}
